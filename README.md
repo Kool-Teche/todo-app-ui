@@ -38,7 +38,7 @@ npm run dev
 
 # Build the Project
 
-# To build the project for production, use the following command:
+To build the project for production, use the following command:
 
 ```bash
 npm run build
@@ -46,7 +46,7 @@ npm run build
 
 # Preview the Build
 
-# You can preview the production build locally by running:
+You can preview the production build locally by running:
 
 ```bash
 npm run preview
@@ -54,7 +54,7 @@ npm run preview
 
 # Linting the Code
 
-# To run ESLint and check for code style issues or errors, use the following command:
+To run ESLint and check for code style issues or errors, use the following command:
 
 ```bash
 npm run lint
@@ -62,7 +62,7 @@ npm run lint
 
 # Running Tests
 
-# To run the tests using Jest and React Testing Library, use the following command:
+To run the tests using Jest and React Testing Library, use the following command:
 
 ```bash
 npm test

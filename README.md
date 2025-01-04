@@ -24,19 +24,19 @@ git clone https://github.com/Kool-Teche/todo-app-ui
 cd todo-app-ui
 ```
 
-# 2. Install dependencies:
+### 2. Install dependencies:
 
 ```bash
 npm install
 ```
 
-# 3. Run the development server:
+### 3. Run the development server:
 
 ```bash
 npm run dev
 ```
 
-# Build the Project
+### Build the Project
 
 To build the project for production, use the following command:
 
@@ -44,7 +44,7 @@ To build the project for production, use the following command:
 npm run build
 ```
 
-# Preview the Build
+### Preview the Build
 
 You can preview the production build locally by running:
 
@@ -52,7 +52,7 @@ You can preview the production build locally by running:
 npm run preview
 ```
 
-# Linting the Code
+### Linting the Code
 
 To run ESLint and check for code style issues or errors, use the following command:
 
@@ -60,7 +60,7 @@ To run ESLint and check for code style issues or errors, use the following comma
 npm run lint
 ```
 
-# Running Tests
+### Running Tests
 
 To run the tests using Jest and React Testing Library, use the following command:
 

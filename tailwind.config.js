@@ -3,6 +3,7 @@ export default {
   content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
     extend: {
+      body: {},
       fontFamily: {
         zentry: ["zentry", "sans-serif"],
         general: ["general", "sans-serif"],
@@ -24,6 +25,18 @@ export default {
         yellow: {
           100: "#8e983f",
           300: "#edff66",
+        },
+        gunmetal: {
+          300: "#2b2738",
+        },
+        grayX11: {
+          100: "#b8b7bd",
+        },
+        royal_purple: {
+          100: "#6E54B5",
+        },
+        arsenic: {
+          100: "#3b364c",
         },
       },
     },
